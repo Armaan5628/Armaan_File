@@ -1,3 +1,5 @@
-hlo
-hi
-how are u
+<<<<<<< HEAD
+This is the new line in branch:                 
+=======
+This is the new line in master:
+>>>>>>> main
